@@ -1,0 +1,104 @@
+Ping:
+
+Amazon:
+
+1. PING e15316.dsca.akamaiedge.net (104.71.134.32): 56 data bytes
+64 bytes from 104.71.134.32: icmp_seq=0 ttl=55 time=4.253 ms
+64 bytes from 104.71.134.32: icmp_seq=1 ttl=55 time=10.224 ms
+64 bytes from 104.71.134.32: icmp_seq=2 ttl=55 time=9.423 ms
+64 bytes from 104.71.134.32: icmp_seq=3 ttl=55 time=12.605 ms
+64 bytes from 104.71.134.32: icmp_seq=4 ttl=55 time=12.524 ms
+^C
+--- e15316.dsca.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.253/9.806/12.605/3.046 ms
+
+2. PING d3ag4hukkh62yn.cloudfront.net (18.172.169.208): 56 data bytes
+64 bytes from 18.172.169.208: icmp_seq=0 ttl=246 time=4.430 ms
+64 bytes from 18.172.169.208: icmp_seq=1 ttl=246 time=10.891 ms
+64 bytes from 18.172.169.208: icmp_seq=2 ttl=246 time=4.655 ms
+64 bytes from 18.172.169.208: icmp_seq=3 ttl=246 time=8.003 ms
+64 bytes from 18.172.169.208: icmp_seq=4 ttl=246 time=11.377 ms
+^C
+--- d3ag4hukkh62yn.cloudfront.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.430/7.871/11.377/2.953 ms
+
+3. PING d3ag4hukkh62yn.cloudfront.net (18.65.233.187): 56 data bytes
+64 bytes from 18.65.233.187: icmp_seq=0 ttl=246 time=4.298 ms
+64 bytes from 18.65.233.187: icmp_seq=1 ttl=246 time=4.749 ms
+64 bytes from 18.65.233.187: icmp_seq=2 ttl=246 time=4.484 ms
+64 bytes from 18.65.233.187: icmp_seq=3 ttl=246 time=15.903 ms
+64 bytes from 18.65.233.187: icmp_seq=4 ttl=246 time=13.586 ms
+^C
+--- d3ag4hukkh62yn.cloudfront.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.298/8.604/15.903/5.069 ms
+
+Google:
+1. PING www.google.com (142.251.33.68): 56 data bytes
+64 bytes from 142.251.33.68: icmp_seq=0 ttl=115 time=3.228 ms
+64 bytes from 142.251.33.68: icmp_seq=1 ttl=115 time=40.589 ms
+64 bytes from 142.251.33.68: icmp_seq=2 ttl=115 time=22.988 ms
+64 bytes from 142.251.33.68: icmp_seq=3 ttl=115 time=75.979 ms
+64 bytes from 142.251.33.68: icmp_seq=4 ttl=115 time=7.538 ms
+^C
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.228/30.064/75.979/26.445 ms
+
+2. PING www.google.com (142.251.33.68): 56 data bytes
+64 bytes from 142.251.33.68: icmp_seq=0 ttl=115 time=5.005 ms
+64 bytes from 142.251.33.68: icmp_seq=1 ttl=115 time=4.555 ms
+64 bytes from 142.251.33.68: icmp_seq=2 ttl=115 time=5.005 ms
+64 bytes from 142.251.33.68: icmp_seq=3 ttl=115 time=5.181 ms
+64 bytes from 142.251.33.68: icmp_seq=4 ttl=115 time=35.616 ms
+^C
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.555/11.072/35.616/12.274 ms
+
+3. PING www.google.com (142.251.33.68): 56 data bytes
+64 bytes from 142.251.33.68: icmp_seq=0 ttl=115 time=58.350 ms
+64 bytes from 142.251.33.68: icmp_seq=1 ttl=115 time=98.047 ms
+64 bytes from 142.251.33.68: icmp_seq=2 ttl=115 time=33.082 ms
+64 bytes from 142.251.33.68: icmp_seq=3 ttl=115 time=4.369 ms
+64 bytes from 142.251.33.68: icmp_seq=4 ttl=115 time=9.595 ms
+^C
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.369/40.689/98.047/34.484 ms
+
+Microsoft:
+1. PING e13678.dscb.akamaiedge.net (23.216.81.152): 56 data bytes
+64 bytes from 23.216.81.152: icmp_seq=0 ttl=53 time=4.545 ms
+64 bytes from 23.216.81.152: icmp_seq=1 ttl=53 time=18.442 ms
+64 bytes from 23.216.81.152: icmp_seq=2 ttl=53 time=11.380 ms
+64 bytes from 23.216.81.152: icmp_seq=3 ttl=53 time=33.456 ms
+64 bytes from 23.216.81.152: icmp_seq=4 ttl=53 time=24.972 ms
+^C
+--- e13678.dscb.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.545/18.559/33.456/10.109 ms
+
+2. PING e13678.dscb.akamaiedge.net (23.36.53.236): 56 data bytes
+64 bytes from 23.36.53.236: icmp_seq=0 ttl=56 time=4.558 ms
+64 bytes from 23.36.53.236: icmp_seq=1 ttl=56 time=8.165 ms
+64 bytes from 23.36.53.236: icmp_seq=2 ttl=56 time=9.528 ms
+64 bytes from 23.36.53.236: icmp_seq=3 ttl=56 time=19.009 ms
+64 bytes from 23.36.53.236: icmp_seq=4 ttl=56 time=3.405 ms
+^C
+--- e13678.dscb.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.405/8.933/19.009/5.517 ms
+
+3. PING e13678.dscb.akamaiedge.net (23.216.81.152): 56 data bytes
+64 bytes from 23.216.81.152: icmp_seq=0 ttl=53 time=9.260 ms
+64 bytes from 23.216.81.152: icmp_seq=1 ttl=53 time=15.379 ms
+64 bytes from 23.216.81.152: icmp_seq=2 ttl=53 time=18.467 ms
+64 bytes from 23.216.81.152: icmp_seq=3 ttl=53 time=34.232 ms
+64 bytes from 23.216.81.152: icmp_seq=4 ttl=53 time=21.142 ms
+^C
+--- e13678.dscb.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 9.260/19.696/34.232/8.276 ms

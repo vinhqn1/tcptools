@@ -1,0 +1,63 @@
+Traceroute:
+
+Amazon:
+traceroute to d3ag4hukkh62yn.cloudfront.net (18.65.233.187), 64 hops max, 72 byte packets
+ 1  10.0.70.1 (10.0.70.1)  8.016 ms  3.546 ms  3.565 ms
+ 2  50.217.156.173 (50.217.156.173)  4.685 ms  4.538 ms  4.618 ms
+ 3  be-1-sur03.seattle.wa.seattle.comcast.net (69.139.164.134)  4.148 ms  4.175 ms  4.469 ms
+ 4  96.216.153.101 (96.216.153.101)  12.247 ms  4.358 ms  6.582 ms
+ 5  be-501-arsc1.seattle.wa.seattle.comcast.net (24.124.128.121)  67.465 ms  4.655 ms  3.353 ms
+ 6  be-36111-cs01.seattle.wa.ibone.comcast.net (68.86.93.1)  5.184 ms  8.002 ms  5.343 ms
+ 7  be-2111-pe11.seattle.wa.ibone.comcast.net (96.110.32.226)  3.297 ms  4.873 ms  5.196 ms
+ 8  66.208.233.10 (66.208.233.10)  4.322 ms  4.410 ms  4.463 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  150.222.214.205 (150.222.214.205)  12.871 ms  5.205 ms  4.238 ms
+15  server-18-65-233-187.sea73.r.cloudfront.net (18.65.233.187)  4.849 ms  4.735 ms  3.975 ms
+
+Google:
+traceroute to www.google.com (142.251.215.228), 64 hops max, 52 byte packets
+ 1  10.0.70.1 (10.0.70.1)  4.080 ms  3.906 ms  4.417 ms
+ 2  50.217.156.173 (50.217.156.173)  4.474 ms  4.425 ms  4.247 ms
+ 3  be-1-sur03.seattle.wa.seattle.comcast.net (69.139.164.134)  4.246 ms  4.148 ms  4.363 ms
+ 4  96.216.153.101 (96.216.153.101)  3.912 ms  4.404 ms  11.850 ms
+ 5  be-501-arsc1.seattle.wa.seattle.comcast.net (24.124.128.121)  4.591 ms  4.777 ms  4.163 ms
+ 6  50.222.176.218 (50.222.176.218)  5.159 ms
+    50.222.176.214 (50.222.176.214)  4.998 ms  4.725 ms
+ 7  * * *
+ 8  142.251.55.202 (142.251.55.202)  13.640 ms
+    142.251.55.200 (142.251.55.200)  7.797 ms
+    142.251.55.196 (142.251.55.196)  6.669 ms
+ 9  216.239.56.223 (216.239.56.223)  4.626 ms
+    74.125.243.189 (74.125.243.189)  5.156 ms
+    74.125.243.178 (74.125.243.178)  5.757 ms
+10  108.170.245.113 (108.170.245.113)  6.006 ms  4.788 ms
+    108.170.245.97 (108.170.245.97)  5.602 ms
+11  142.251.241.137 (142.251.241.137)  4.721 ms
+    216.239.56.223 (216.239.56.223)  4.714 ms
+    142.251.241.137 (142.251.241.137)  4.738 ms
+12  sea09s35-in-f4.1e100.net (142.251.215.228)  5.008 ms  4.830 ms  4.946 ms
+                                                                               
+
+Microsoft:
+traceroute to e13678.dscb.akamaiedge.net (23.216.81.152), 64 hops max, 52 byte packets
+ 1  10.0.70.1 (10.0.70.1)  4.282 ms  3.740 ms  3.553 ms
+ 2  50.217.156.173 (50.217.156.173)  4.765 ms  4.570 ms  4.789 ms
+ 3  be-1-sur03.seattle.wa.seattle.comcast.net (69.139.164.134)  4.221 ms  4.495 ms  4.175 ms
+ 4  96.216.153.101 (96.216.153.101)  4.313 ms  4.110 ms  4.111 ms
+ 5  be-501-arsc1.seattle.wa.seattle.comcast.net (24.124.128.121)  4.619 ms  4.822 ms  4.676 ms
+ 6  be-36131-cs03.seattle.wa.ibone.comcast.net (68.86.93.9)  4.458 ms
+    be-36111-cs01.seattle.wa.ibone.comcast.net (68.86.93.1)  5.008 ms
+    be-36131-cs03.seattle.wa.ibone.comcast.net (68.86.93.9)  4.867 ms
+ 7  be-2412-pe12.seattle.wa.ibone.comcast.net (96.110.34.142)  5.090 ms
+    be-2211-pe11.seattle.wa.ibone.comcast.net (96.110.32.230)  4.928 ms
+    be-2312-pe12.seattle.wa.ibone.comcast.net (96.110.34.138)  4.927 ms
+ 8  96-87-11-254-static.hfc.comcastbusiness.net (96.87.11.254)  5.582 ms
+    as46844-3-c.350ecermak.il.ibone.comcast.net (75.149.231.230)  5.921 ms  4.279 ms
+ 9  * * ae34.r03.border101.sea01.fab.netarch.akamai.com (23.203.145.249)  7.932 ms
+10  * * *
+11  * * *
+12  a23-216-81-152.deploy.static.akamaitechnologies.com (23.216.81.152)  13.257 ms  4.526 ms  4.513 ms
